@@ -1,6 +1,4 @@
-This folder contains the code (in R) to obtain the results of my Over 49: Predicting NFL Point Totals project.
-
-The necessary R packages needed to run this code are the following:
+The necessary R packages needed to run this analysis are the following:
 
 e1071, pls, randomForest, rpart
 
